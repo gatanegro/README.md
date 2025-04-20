@@ -58,5 +58,5 @@ This work is provided "as-is" without any warranties or guarantees. The author(s
 
 For inquiries or permissions, please contact: [dhelamay@protonmail.com]
 License
-For work hosted on GitHub, additional terms and restrictions apply. See the [LICENSE](https://github.com/gatanegro/gatanegro/blob/main/License.md) file for details..  
+For work hosted on GitHub, additional terms and restrictions apply. See the [LICENSE](https://github.com/gatanegro/gatanegro/blob/main/License.md) file for details.  
 
