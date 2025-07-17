@@ -1,6 +1,8 @@
 
 **Unified Field Approach**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14307992.svg)](https://doi.org/10.5281/zenodo.14307992)
+
 In the COM framework, all forces and fields are unified as different oscillatory modes of the same fundamental energy field:
 
 1. Gravitational force emerges from low-frequency, large-amplitude oscillations
